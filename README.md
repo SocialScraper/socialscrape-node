@@ -2,7 +2,7 @@
 
 Social media data as an API: profiles, posts, comments, search, ads and
 transcripts across platforms, in one response shape. This is the official
-TypeScript / JavaScript client for the [SocialScrape API](https://socialscrape.dev/docs).
+TypeScript / JavaScript client for the [SocialScrape API](https://socialscrape.dev/docs?utm_source=github&utm_medium=repo&utm_campaign=socialscrape).
 
 - Zero runtime dependencies (uses `fetch`). Node 18+, Bun, Deno and server-side edge runtimes. TypeScript 5.4+ for the types.
 - Server-side only: your API key is a secret. Never put it in code that ships to a browser or a mobile app; call the API from your backend.
